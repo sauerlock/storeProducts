@@ -32,35 +32,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;PHP Script.cadastro.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.db.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.index.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.mysqli_connect.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.product.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.productcontroller.php (1).executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.productcontroller.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.register.php.executor&quot;: &quot;Run&quot;,
-    &quot;PHP Script.table.php.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;45e35f3f&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/inetpub/wwwroot/storeProducts/public&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "PHP Script.cadastro.php.executor": "Run",
+    "PHP Script.db.php.executor": "Run",
+    "PHP Script.index.php.executor": "Run",
+    "PHP Script.mysqli_connect.php.executor": "Run",
+    "PHP Script.product.php.executor": "Run",
+    "PHP Script.productcontroller.php (1).executor": "Run",
+    "PHP Script.productcontroller.php.executor": "Run",
+    "PHP Script.register.php.executor": "Run",
+    "PHP Script.table.php.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "C:/inetpub/wwwroot/storeProducts/public",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\inetpub\wwwroot\storeProducts\public" />
@@ -123,7 +123,7 @@
       <workItem from="1704461652705" duration="787000" />
       <workItem from="1704465225525" duration="6185000" />
       <workItem from="1704478549718" duration="2523000" />
-      <workItem from="1704489043229" duration="1334000" />
+      <workItem from="1704489043229" duration="1982000" />
     </task>
     <servers />
   </component>
