@@ -18,6 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
         <entry key="$PROJECT_DIR$/storeProduct" value="main" />
       </map>
     </option>
@@ -48,14 +49,23 @@
     "PHP Script.table.php.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/inetpub/wwwroot/storeProducts/public",
+=======
+    "git-widget-placeholder": "feature/app",
+    "last_opened_file_path": "C:/inetpub/wwwroot/storeProducts/app",
+>>>>>>> feature/app
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+=======
+    "settings.editor.selected.configurable": "web-ide.project.structure",
+>>>>>>> feature/app
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
