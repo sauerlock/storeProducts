@@ -1,5 +1,6 @@
 <?php
 include_once('./product.php');
+require_once('database.php');
 
 class ProductController
 {
@@ -18,5 +19,16 @@ class ProductController
     public function showProduct()
     {
         return $this->productModel->registeredProducts();
+    }
+
+    public function updateProduct($id, $productName, $amount, $value)
+    {
+        return $this->productModel->productUpdate($id, $productName, $amount, $value);
+    }
+
+    public function deleteProduct($id) 
+    {
+        return $this->productModel->deleteProduct($id);
+        
     }
 }

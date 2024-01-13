@@ -2,19 +2,17 @@
 global $connect;
 include_once('./database.php');
 require_once('./product.php');
-require_once('./productcontroller.php');
 
 
 // Get form data
-if ($_SERVER['REQUEST_METHOD'] == 'POST'){
+if (isset($_SERVER['REQUEST_METHOD']) && $_SERVER['REQUEST_METHOD'] == 'POST'){
 $productName = $_POST['productName'];
-$amount = $_POST['amount'];
+$amount = intval($_POST['amount']);
 $value = $_POST['value'];
 
 // Create instances of the model and controller
 $productModel = new ProductModel($connect);
 $productController = new ProductController($productModel);
-    ;
     // Call the product registration method
     $result = $productController->storeProduct($productName, $amount, $value);
 
