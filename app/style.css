@@ -59,6 +59,8 @@ table {
 th, td {
     border-bottom: 3px solid midnightblue;;
     padding: 10px;
+    border-radius: 10px;
+    box-shadow: dark;
     background-color: rgb(202, 198, 198);
     text-align: center;
     font-size: 120%;
