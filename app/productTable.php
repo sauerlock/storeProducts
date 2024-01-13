@@ -26,7 +26,7 @@ function showProducts()
             </tr>";
 
         while ($row = $showProduct->fetch_assoc()) {
-            // Defina as variáveis dentro do loop
+            
             $id = $row['id'];
             $productName = $row['nome'];
             $amount = $row['quantidade'];
