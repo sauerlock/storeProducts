@@ -19,5 +19,4 @@ try {
     exit();
 }
 
-// Continue with the rest of your code...
-?>
+
